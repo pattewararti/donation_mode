@@ -1,0 +1,7 @@
+name: Donation Form
+description: Adding a custom field type on donation form
+type: module
+core: 8.x
+package: 'Field Types'
+dependencies:
+  - field
